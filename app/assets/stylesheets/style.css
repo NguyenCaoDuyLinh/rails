@@ -4,7 +4,7 @@
     box-sizing: border-box;
 
 }
-.wrapper{
+.wrapper134{
     padding: 20px 10px;
 }
 table, td, th {  
@@ -29,7 +29,7 @@ tr:nth-child(4){
 tr:nth-child(5){
     color: red;
 }
-.school{
+.school134{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,45 +42,45 @@ tr:nth-child(5){
     text-align: center;
     margin-left: -40px;
 }
-.school__header{
+.school134__header{
 }
-.title{
+.title134{
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin-top: 20px;
 }
-.date{
+.date134{
     display: flex;
     align-items: center;
     gap: 0 10px;
     font-family:Arial, Helvetica, sans-serif;
 
 }
-.text{
+.text134{
     display: flex;
     flex-direction: column;
     align-items: flex-end;
     color: blue;
 }
-.number{
+.number134{
     padding:10px 15px;
     border: 1px solid red;
     font-size: 25px;
     color: red;
 
 }
-.table{
+.table134{
     margin-top: 40px;
     font-family:Arial, Helvetica, sans-serif;
     
 }
-.img{
+.img134{
     width: 50px;
     height: 50px;
     
 }
-.title__wrap{
+.title__wrap134{
     display: flex;
     align-items: center;
     gap: 0 20px;

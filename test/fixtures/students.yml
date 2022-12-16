@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  msv: MyString
+  hoten: MyString
+  string: MyString
+
+two:
+  msv: MyString
+  hoten: MyString
+  string: MyString

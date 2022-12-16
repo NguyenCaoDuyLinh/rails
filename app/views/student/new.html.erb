@@ -1,0 +1,18 @@
+<h1>Nhập</h1>
+<%= form_for @student do |f| -%>
+    <label> Masv </label>
+    <%= f.text_field :msv %>
+    <label> hoten </label>
+    <%= f.text_field :hoten %>
+    <%= f.submit "Submit" %>
+<% end -%>
+<br />
+<h1> Show </h1>
+<% if !@students.blank? %>
+    <% for item in @students %>
+        <%= item.msv %> <%= item.hoten %>
+        <br />
+        <% end %>
+<% else %>
+
+<% end %>
